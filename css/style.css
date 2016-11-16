@@ -8,8 +8,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -92,7 +92,7 @@ input:focus,textarea:focus {
 	background-image: -o-linear-gradient(top, #FFFFFF 100%, #F5F5F5 100%);
 	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100, #FFFFFF), color-stop(100, #F5F5F5));
 	background-image: -webkit-linear-gradient(top, #FFFFFF 100%, #F5F5F5 100%);
-	background-image: linear-gradient(to bottom, #FFFFFF 100%, #F5F5F5 100%);	
+	background-image: linear-gradient(to bottom, #FFFFFF 100%, #F5F5F5 100%);
 }
 
 /* Header */
@@ -263,7 +263,7 @@ input:focus,textarea:focus {
 
 .image-thumbnail__item img  {
 	width: 100%;
-    height: auto;	
+    height: auto;
 }
 
 .main-image {
@@ -429,11 +429,11 @@ input:focus,textarea:focus {
 }
 
 .personalize-link {
-	padding: 13px 36px 0;	
+	padding: 13px 36px 0;
 }
 
 .size-variation-link  {
-	padding: 13px 36px 0 10px;	
+	padding: 13px 36px 0 10px;
 }
 
 .personalize-link:before {
@@ -471,7 +471,7 @@ input:focus,textarea:focus {
 .button-holder {
 	margin-top: 30px;
 	padding-bottom: 30px;
-	border-bottom: 2px dotted #ebebeb;	
+	border-bottom: 2px dotted #ebebeb;
 }
 
 .button-holder .button-atb {
@@ -510,7 +510,7 @@ input:focus,textarea:focus {
 	-webkit-box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
 	-moz-box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
 	box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
-	
+
 	-webkit-transition: box-shadow .3s ease-in-out;
     -moz-transition: box-shadow .3s ease-in-out;
     -ms-transition: box-shadow .3s ease-in-out;
@@ -533,7 +533,7 @@ input:focus,textarea:focus {
 }
 
 .button-atb span {
-	padding-right: 26px;	
+	padding-right: 26px;
 }
 
 .button-atb span:after {
@@ -625,11 +625,11 @@ input:focus,textarea:focus {
 	font: 18px/24px 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
 	color: #000;
 	text-align: center;
-	margin: 0 auto;	
+	margin: 0 auto;
 }
 
 .secondary-content__text + .secondary-content__text{
-	margin-top: 13px;	
+	margin-top: 13px;
 }
 
 .asset-holder {
@@ -769,6 +769,7 @@ input:focus,textarea:focus {
 	text-align: left;
 	clear: left;
 	margin: 0 0 46px 20px;
+	line-height: 125%;
 }
 
 .asset-collage {
@@ -797,8 +798,8 @@ input:focus,textarea:focus {
 	-webkit-box-shadow:  0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 	-moz-box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-	
-	
+
+
 	-webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -ms-transition: all 0.5s ease;
@@ -840,7 +841,7 @@ input:focus,textarea:focus {
 	position: relative;
 	padding-top: 16px;
 	border-bottom: 2px solid #ebebeb;
-	text-align: center;	
+	text-align: center;
 }
 
 .side-panel__close {
@@ -860,7 +861,7 @@ input:focus,textarea:focus {
 	top: 0;
 	left: 0;
 	background: url('../images/Close_Overlay_icon.svg') no-repeat 0 0;
-	
+
 }
 
 .side-panel__title {
@@ -909,7 +910,7 @@ input:focus,textarea:focus {
 
 .customise-color-iteam img {
 	width: 100%;
-    height: auto;	
+    height: auto;
 }
 
 .customise-color-name {
@@ -922,7 +923,7 @@ input:focus,textarea:focus {
 .customise-block {
 	width: 260px;
 	margin: 22px auto 0;
-	text-align: center;	
+	text-align: center;
 }
 
 .customise-block-title {
@@ -930,25 +931,25 @@ input:focus,textarea:focus {
 	font: 18px/18px 'adiBlack', Arial, Helvetica, Verdana, sans-serif;
 	color: #000;
 	text-transform: uppercase;
-	letter-spacing: 0.4px;	
+	letter-spacing: 0.4px;
 }
 
 .customise-block-text {
 	display: block;
 	font: 16px/20px 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
-	color: #000;	
+	color: #000;
 	margin-top: 13px;
 }
 
 .customise-block-image {
 	width: 208px;
 	position: relative;
-	margin: 39px auto 0;	
+	margin: 39px auto 0;
 }
 
 .customise-block-image img {
 	width: 100%;
-    height: auto;	
+    height: auto;
 }
 
 .customise-block-image:after {
@@ -964,7 +965,7 @@ input:focus,textarea:focus {
 }
 
 .customise-button-holder {
-	margin-top: 27px;	
+	margin-top: 27px;
 }
 
 .customise-button-holder .button {
@@ -979,12 +980,12 @@ input:focus,textarea:focus {
 	font: 16px/20px 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
 	color: #000;
 	text-align: center;
-	margin: 33px auto 0;	
+	margin: 33px auto 0;
 }
 
 .personalize-fields {
 	width: 324px;
-	margin: 28px auto 0;	
+	margin: 28px auto 0;
 }
 
 .pers-fields {
@@ -1000,7 +1001,7 @@ input:focus,textarea:focus {
 }
 
 .pers-input-cont-name {
-	width: 254px;	
+	width: 254px;
 }
 
 .pers-input-cont-flag {
@@ -1010,7 +1011,7 @@ input:focus,textarea:focus {
 }
 
 .personalize-fields input {
-	font: 16px/16px 'adihausregular', Arial, Helvetica, Verdana, sans-serif;	
+	font: 16px/16px 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
 }
 
 .pers-input-cont-flag input:focus {
@@ -1031,7 +1032,7 @@ input:focus,textarea:focus {
 }
 
 .personalize-image {
-	margin-top: 30px;	
+	margin-top: 30px;
 	text-align: center;
 }
 
@@ -1045,7 +1046,7 @@ input:focus,textarea:focus {
 
 .personalize-price {
 	margin-top: 18px;
-	text-align: center;	
+	text-align: center;
 }
 
 .summary {
@@ -1055,12 +1056,12 @@ input:focus,textarea:focus {
 .summary,
 .price-1 {
 	font: 16px/20px 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
-	color: #000;	
+	color: #000;
 }
 
 .price-2 {
 	font: 16px/20px 'adihausbold', Arial, Helvetica, Verdana, sans-serif;
-	color: #000;		
+	color: #000;
 }
 
 .personalize-button-holder .button {
@@ -1075,7 +1076,7 @@ input:focus,textarea:focus {
 	position: relative;
 	margin: 0 auto 20px;
 	padding: 0 30px 0 10px;
-	border: 1px solid #c8cbcc;	
+	border: 1px solid #c8cbcc;
 }
 
 .size-variation__selectbox:after {
@@ -1112,7 +1113,7 @@ input:focus,textarea:focus {
 
 .size-variation__item-selected {
 	background: #000;
-	border-color: #000;	
+	border-color: #000;
 }
 
 .size-variation__item:hover {
@@ -1120,7 +1121,7 @@ input:focus,textarea:focus {
 }
 
 .size-variation__item-selected:hover {
-	border-color: #000;	
+	border-color: #000;
 }
 
 .size-variation__item-1,
@@ -1138,11 +1139,11 @@ input:focus,textarea:focus {
 }
 
 .size-variation__item-selected .size-variation__link {
-	color: #fff;	
+	color: #fff;
 }
 
 .size-variation__item  .size-variation__link {
-	text-align: center;	
+	text-align: center;
 }
 
 .overlay-button-holder {
@@ -1224,7 +1225,7 @@ input:focus,textarea:focus {
 }
 #footer .footer-copy ol a,
 #footer .footer-copy ol span,
-#footer .footer-copy ol li{	
+#footer .footer-copy ol li{
 	font-family: 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
 	color:#c8cbcc;
 	font-size:12px;
@@ -1254,7 +1255,7 @@ input:focus,textarea:focus {
 }
 
 .country_selector_text {
-	font-family: 'adihausregular', Arial, Helvetica, Verdana, sans-serif;	
+	font-family: 'adihausregular', Arial, Helvetica, Verdana, sans-serif;
 	font-size: 12px;
 	color: #c8cbcc;
 	padding-left: 10px;
